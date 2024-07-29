@@ -1,2 +1,2 @@
-# gdsc_1
+# About my first project on GitHub.
 My first project on frontend development.
