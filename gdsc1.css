@@ -1,0 +1,562 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    
+}
+
+head,body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.div_1{
+    position: relative;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.bgimg2{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.bgimg3{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.layer2{
+    position: absolute;
+    width: 226px;
+    height: 221.49px;
+    top: 930px;
+    left: 584px
+
+}
+
+.layer2-2{
+    position: absolute;
+    width: 166px;
+    height: 169.93px;
+    top: 915px;
+    left: 0px;
+
+}
+
+.layer2-1 img{
+    position: absolute;
+    width: 400px;
+    height: 547.06px;
+    top: 380px;
+    left: 0px;
+    
+}
+
+.layer2-3{
+    position: absolute;
+    width: 399.88px;
+    height: 517.01px;
+    top: 730px;
+    right: 0px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.layer2-4{
+    position: absolute;
+    width: 285.85px;
+    height: 235.74px;
+    top: 141px;
+    right: 0px;    
+
+}
+
+.layer2-5{
+    position: absolute;
+    width: 131.68px;
+    height: 144.85px;
+    top: 134px;
+    left: 800px;
+}
+
+.layer2-6{
+    position: absolute;
+    width: 62.67px;
+    height: 62.69px;
+    top: 466.96px;
+    left: 263.28px;
+
+}
+
+.group2{
+    position: absolute;
+    width: 244.55px;
+height: 247.22px;
+top: 75px;
+left: 0px;
+gap: 0px;
+opacity: 0px;
+}
+
+.frame11{
+    position: absolute;
+    width: 300px;
+    height: 30px;
+    top: 25px;
+}
+
+.solar{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 30px;
+    right: 100px;
+    margin-top: 10px;
+}
+
+.div2{
+    position: absolute;
+    width: 700px;
+    top: 30px;
+    left: 450px;
+    /* display: flex; */
+    
+}
+
+.div2 a{
+    margin:0px 40px ;
+    text-decoration: none;
+    color: white;
+    font-size: 20px; 
+    background: transparent;
+    border: 0px;
+
+}
+
+.heading{
+    position: absolute;
+    height: 700px;
+    width: 600px;
+    top: 220px;
+    left: 450px;
+}
+
+.heading img{
+    height: 400px;
+    width: 700px;
+}
+
+.button1 .learn_more{
+    position: absolute;
+    top: 700px;
+    width: 0px;
+    height: 00px;
+    left: 700px;
+    border: 5px solid blask;
+}
+
+.button1 .learn_more img{
+    height: 100px;
+    width: 230px;
+
+}
+
+.vector3{
+    position: absolute;
+    top: 570px;
+    left: 00px;
+}
+
+.vector3 img{
+    height: 510px;
+    width: 700px;
+}
+
+.vector4{
+    position: absolute;
+    top: 00px;
+    left: 800px;
+}
+
+.vector4 img{
+    height: 400px;
+    width: 700px;
+}
+
+.vector1{
+    position: absolute;
+    width: 60px;
+    top: 420px;
+    left: 700px;
+}
+
+.vector2{
+    position: absolute;
+    width: 70px;
+    top: 20px;
+    left: 1380px;
+}
+
+.div_2{
+    position: relative;
+    padding: 0;
+    margin-top: -4px;
+    
+}
+
+.bg2img2{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.bg2img3{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.sun{
+    position: absolute;
+    top: 0px;
+}
+
+.sun img{
+    position: absolute;
+
+}
+
+.heading2{
+    position: absolute;
+    top: 570px;
+    left: 100px;
+    height: 176px;
+    width: 900px;
+}
+
+.heading2 img{
+    height: 170px;
+    width: 780px;
+}
+
+.info2{
+    position: absolute;
+    top: 800px;
+    left: 100px;
+}
+
+.info2 img{
+    height: 176px;
+    width: 600px;
+}
+
+.div_3{
+    position: relative;
+    padding: 0;
+    margin-top: -4px;
+    
+}
+
+.bg3img2{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.bg3img3{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.group3-4{
+    position: absolute;
+    top: 100px;
+
+}
+
+.group3-4 img{
+    height: 906px;
+    width: 606px;
+}
+
+.heading3{
+    position: absolute;
+    top: 150px;
+    left: 700px;
+
+}
+
+.heading3 img{
+    height: 300px;
+    width: 750px;
+}
+
+.subheading3{
+    position: absolute;
+    top: 530px;
+    left: 700px;
+}
+
+.subheading3 img{
+    height: 400px;
+    width: 750px;
+}
+
+.div_4{
+    position: relative;
+    padding: 0;
+    margin-top: -4px;
+    
+}
+
+.bg4img2{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.bg4img3{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.group4-6{
+    position: absolute;
+    top: 0px;
+    left: 619px;
+}
+
+.group4-6 img{
+    height: 1081px;
+    width: 900px;
+}
+
+.frame4-4{
+    position: absolute;
+    top: 100px;
+    left: 98px;
+}
+
+.frame4-4 img{
+    height: 150px;
+    width: 680px;
+}
+
+.frame4-5{
+    position: absolute;
+    top: 450px;
+    left: 98px;
+}
+
+.frame4-5{
+    height: 200px;
+    width: 680px;
+}
+
+.div_5{
+    position: relative;
+    padding: 0;
+    margin-top: -4px;
+    
+}
+
+.bg5img2{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.bg5img3{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.layer5-2{
+    position: absolute;
+    bottom: 0px;
+}
+
+.earth img{
+    position: absolute;
+    bottom: 0px;
+    margin: 4px;
+    
+}
+
+.earth .ellipse5-2{
+    width: 1381px;
+    height: 480px;
+    left: 70px;
+    top: 600px;
+}
+
+.earth .ellipse5-3{
+    width: 1322.17px;
+    height: 450px;
+    left: 100px;
+    top: 627px;
+}
+
+.earth .layer5-2{
+    width: 1270px;
+    height: 570px;
+    left: 133px;
+    top: 506px;
+}
+
+.earth .rocket{
+    height: 170px;
+    width: 165px;
+    top: 600px;
+}
+
+.heading_5{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+.heading_5 .info5{
+    height: 170px;
+    width: 700px;
+    
+}
+
+.subheading_5{
+    position: absolute;
+    top: 420px;
+    left: 350px;
+}
+
+.subheading_5 .subinfo5{
+    height: 150px;
+    width: 650px;
+}
+
+.arrow{
+    position: absolute;
+    top: 430px;
+    left: 1030px;
+}
+
+.arrow img{
+    height: 100px;
+    width: 200px;
+}
+
+.card{
+    position: absolute;
+    top: 100px;
+    left: 1000px;
+}
+
+.card img{
+    height: 170px;
+    width: 300px;
+}
+
+
+.div_6{
+    position: relative;
+    padding: 0;
+    margin-top: -4px;
+    
+}
+
+.bg6img2{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.bg6img3{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.mars{
+    position: absolute;
+    top: 380px;
+}
+
+.mars img{
+    height: 700px;
+    width: 650px;
+}
+
+.heading_6{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+.heading_6 img{
+    height: 150px;
+    width: 700px;
+}
+
+.subheading_6{
+    position: absolute;
+    top: 580px;
+    left: 700px;
+}
+
+.subheading_6 img{
+    height: 150px;
+    width: 300px;
+}
+
+
+.card_6{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 170px;
+    left: 1000px;
+    
+}
+
+.card_6 img{
+    height: 250px;
+    width: 500px;
+    padding: 24px 40px ;
+}
+
+.arrow6{
+    position: absolute;
+    top: 480px;
+    left: 560px;
+}
+
+.arrow6 img{
+    height: 90px;
+    width: 100px;
+}
+
+.div_1 .div2 a:hover{
+    color: grey;
+    transition-duration: 0.5s;
+    
+}
+
+.button1 .learn_more img:hover{
+    border: 1px solid black;
+    border-radius: 40px;
+    transition-duration: 0.5s;
+}
+html{
+    scroll-behavior: smooth;
+}
